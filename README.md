@@ -1,8 +1,8 @@
-## [Project Pitch](https://www.youtube.com/watch?v=4zMcxRqRwdw)
-
 # CareLink
 
 <p align="center"><img src="./readMeImages/CareLink v1 - color.png"></p>
+
+## 🔗 - [Project Pitch](https://www.youtube.com/watch?v=4zMcxRqRwdw)
 
 ## Team Members
 
