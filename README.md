@@ -1,4 +1,4 @@
-Project Pitch - url(https://www.youtube.com/watch?v=4zMcxRqRwdw)
+Project Pitch [](https://www.youtube.com/watch?v=4zMcxRqRwdw)
 
 # CareLink
 
