@@ -11,6 +11,7 @@
 | [Hyuk](https://github.com/hyukpk)           | AI Developer                    | [LinkedIn](https://www.linkedin.com/in/hyukpk/)         |
 | [Bardia](https://github.com/BardiaTiM)      | Project Manager & Business Lead | [LinkedIn](https://www.linkedin.com/in/bardia-timouri/) |
 | [Ean](https://github.com/gathrean)          | Frontend Developer              | [LinkedIn](https://www.linkedin.com/in/gathrean/)       |
+| [Jayden](https://github.com/chino0522)      | Chat System Engineer            | [LinkedIn](https://www.linkedin.com/in/jayden-baek-01812823a/)
 
 ## Problem Statement
 
