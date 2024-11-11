@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./readMeImages/CareLink v1 - color.png"></p>
 
-## 🔗 - [Project Pitch](https://www.youtube.com/watch?v=4zMcxRqRwdw)
+## 🔗 - <a href="https://www.youtube.com/watch?v=4zMcxRqRwdw" target="_blank">Project Pitch</a>
 
 ## Team Members
 
